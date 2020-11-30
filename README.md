@@ -1,4 +1,4 @@
-# manipulator
+# ros_control
 
 # What is Control in Robotics
 
